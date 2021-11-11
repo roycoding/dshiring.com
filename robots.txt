@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /companioncopy/
+Disallow: /half_off/
+
